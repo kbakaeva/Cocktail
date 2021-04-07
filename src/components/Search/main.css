@@ -1,0 +1,23 @@
+.firstsection{
+    height: 50px;
+}
+
+.searchblock{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.inputSearch{
+    width: 400px;
+    background-color: black;
+    border: 1px solid darkred;
+}
+
+.push{
+    padding: 5px 10px 5px 10px;
+    margin-left: 10px;
+    background-color: grey;
+    color: white;
+    border: 1px solid white;
+}

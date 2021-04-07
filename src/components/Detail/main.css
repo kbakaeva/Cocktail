@@ -1,0 +1,27 @@
+.cocktailInformation{
+    color: white;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.cocktailPoints{
+    color: red;
+    font-style: underline;
+}
+
+.sides{
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+    margin: auto;
+    width: 80%;
+}
+
+.backButton{
+    color: red;
+    border: 1px solid red;
+    border-radius: 70% 0% 0% 70%;
+    background-color: black;
+    width: 80px;
+    height: 20px;
+    margin-left: 5%;
+}

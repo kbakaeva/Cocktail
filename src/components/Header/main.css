@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Playball&display=swap");
+@import url("");
+
+.naming{
+    display: flex;
+    justify-content: center;
+    color: red;
+   font-family: Playball;
+   font-size: 30px;
+   text-decoration: none;
+}
